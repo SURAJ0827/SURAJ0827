@@ -28,8 +28,8 @@ I'm a passionate software developer always eager to learn and build impactful so
 
 
 ### Featured Projects
-- [Password Manager](https://github.com/your-username/Password-Manager)
-- [Finance Management App](https://github.com/your-username/finance-app)
+- [Password Manager](https://github.com/SURAJ0827/Password-Manager)
+- [WanderLust](https://wanderlust-os2h.onrender.com/listings)
 
 
 
