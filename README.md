@@ -3,8 +3,8 @@ I'm a passionate software developer always eager to learn and build impactful so
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 - 💻 I love working on **Software Development**
-- 📫 Reach me at: patilsuraj2708@gmail.com (mailto:patilsuraj2708@gmail.com)
-- 🚀 Check out my portfolio: SURAJPATIL (https://surajpatil-08.netlify.app/)
+- 📫 Reach me at: [patilsuraj2708@gmail.com](mailto:patilsuraj2708@gmail.com)
+- 🚀 Check out my portfolio: [SURAJPATIL](https://surajpatil-08.netlify.app/)
 
 
 ### Languages & Tools
