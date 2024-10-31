@@ -1,10 +1,10 @@
 # Hi, I'm Suraj Patil! 👋
 I'm a passionate software developer always eager to learn and build impactful software solutions.
 
-- 🌱 I’m currently learning **[Full Stack Web Development]**
-- 💻 I love working on **[Software Development]**
-- 📫 Reach me at: [patilsuraj2708@gmail.com](mailto:patilsuraj2708@gmail.com)
-- 🚀 Check out my portfolio: [https://surajpatil-08.netlify.app/](https://surajpatil-08.netlify.app/)
+- 🌱 I’m currently learning **Full Stack Web Development**
+- 💻 I love working on **Software Development**
+- 📫 Reach me at: patilsuraj2708@gmail.com(mailto:patilsuraj2708@gmail.com)
+- 🚀 Check out my portfolio: SURAJPATIL(https://surajpatil-08.netlify.app/)
 
 
 ### Languages & Tools
