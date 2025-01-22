@@ -4,7 +4,7 @@ I'm a passionate software developer always eager to learn and build impactful so
 - 🌱 I’m currently learning **Full Stack Web Development**
 - 💻 I love working on **Software Development**
 - 📫 Reach me at: [patilsuraj2708@gmail.com](mailto:patilsuraj2708@gmail.com)
-- 🚀 Check out my portfolio: [SURAJPATIL](https://surajpatil-08.netlify.app/)
+- 🚀 Check out my portfolio: [SURAJPATIL](https://suraj0827.github.io/my-portfolio/)
 
 
 ### Languages & Tools
@@ -28,8 +28,10 @@ I'm a passionate software developer always eager to learn and build impactful so
 
 
 ### Featured Projects
-- [Password Manager](https://github.com/SURAJ0827/Password-Manager)
 - [WanderLust](https://wanderlust-os2h.onrender.com/listings)
+- [RideX](https://github.com/SURAJ0827/RideX)
+- [Password Manager](https://github.com/SURAJ0827/Password-Manager)
+
 
 
 
